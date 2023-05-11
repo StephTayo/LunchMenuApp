@@ -1,0 +1,44 @@
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe.config
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.pdb
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.Properties.Resources.resources
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.GenerateResource.cache
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.exe
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.pdb
+C:\Users\steve\source\repos\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.frmMain.resources
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe.config
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.pdb
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.frmMain.resources
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.Properties.Resources.resources
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.exe
+C:\Users\steve\OneDrive\Documents\SAIT et al\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.pdb
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe.config
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.pdb
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.AssemblyReference.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.frmMain.resources
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.Properties.Resources.resources
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.GenerateResource.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.CoreCompileInputs.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.exe
+C:\Users\922848\Downloads\Lab1  Assignment  - adjusted.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.pdb
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe.config
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.exe
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\bin\Debug\Assignment.NET_1.pdb
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.AssemblyReference.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.frmMain.resources
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.Properties.Resources.resources
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.GenerateResource.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment .NET 1.csproj.CoreCompileInputs.cache
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.exe
+C:\Users\922848\Downloads\Lab1  Assignment  - Fixed.NET\Lab Assignment  1.NET\Assignment .NET 1\Assignment .NET 1\obj\Debug\Assignment.NET_1.pdb
